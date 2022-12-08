@@ -17,7 +17,9 @@ Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moo
 ![présentation3](https://user-images.githubusercontent.com/112189908/206567798-53e8ce29-bbe7-47e6-9e8e-13878ddc82c1.png)
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
+
 Les technologies utilisées sont les lumières Leds, des écrans tactiles, des capteurs de mouvement et un système de sons.
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+
 Les tâches sont le gestionnaire de projets, le chargé de projet, le directeur sonore, la scénarisation, la conceptualisation, la modélisation 3D, la création du contenu, la programmation, l'installation, la maintenance.
